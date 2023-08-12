@@ -48,6 +48,3 @@ beka.__passw = '0'
 print(beka.__passw)
 beka.pasww()
 
-
-
-
